@@ -1,0 +1,13 @@
+name: cal.com
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/e71e14d3-50bd-4bb0-b298-5c4eb8c58316
+description: Scheduling infrastructure for absolutely everyone.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
